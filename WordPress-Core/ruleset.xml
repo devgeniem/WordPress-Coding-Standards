@@ -95,6 +95,9 @@
 	<!-- Covers rule: Braces should always be used, even when they are not required. -->
 	<rule ref="Generic.ControlStructures.InlineControlStructure"/>
 
+	<!-- Covers rule: else, elseif and catch should start from new line. -->
+	<rule ref="WordPress.ControlStructures.ElseCatchNewline"/>
+
 
 	<!--
 	#############################################################################
